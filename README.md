@@ -4,6 +4,7 @@
 
 # Pygame-Snake
 Jogo de Snake simples e divertido desenvolvido em Python e utilizando o PyGame.
+Desenvolvido por Daniel e Rafael Hessel!
 
 ## Para rodar o projeto:
 <ul>

@@ -9,5 +9,5 @@ Desenvolvido por Daniel e Rafael Hessel!
 ## Para rodar o projeto:
 <ul>
   <li>Execute <code>pip install pygame</code></li>
-  <li>Rode o jogo com <code>python snake.py</code></li>
+  <li>Rode o jogo com <code>python3 snake.py</code></li>
 <lu>

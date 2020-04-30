@@ -1,6 +1,4 @@
-<header align="center">
-  <img src="./assets/gameImage.png" />
-</header>
+<img align="center" src="./assets/gameImage.png" />
 
 # Pygame-Snake
 Jogo de Snake simples e divertido desenvolvido em Python e utilizando o PyGame.
